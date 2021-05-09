@@ -44,4 +44,4 @@ you can't use me in any public groups
             
 """
     
-    ABOUT_TEXT = """<b>➥ a pure clone bot for my own group</b>,Credit,dev:AlbertEinstein_TG""
+    ABOUT_TEXT = """<b>➥ a pure clone bot for my own group</b>,Credit,dev:AlbertEinstein_TG"""
