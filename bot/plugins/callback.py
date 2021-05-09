@@ -1639,10 +1639,11 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
+            InlineKeyboardButton('Creator 👨‍🔬', url='https://t.me/OO7ROBot'),
+            InlineKeyboardButton('Pdf Mal. Channel 🧾', url ='https://t.me/pdfmalayalam')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardbutton('Pdf Only channel', url ='https://t.me/scpdfs'),
+            InlineKeyboardButton('Reading Group', url='https://t.me/OnlineStoryLovers')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
